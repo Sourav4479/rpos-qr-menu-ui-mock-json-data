@@ -1,5 +1,5 @@
 {
-    "topPicks"[
+    "topPicks": [
        {
           "category":"veg",
           "image_url":"",
@@ -37,7 +37,7 @@
           "rating":"4.2"
        }
     ],
-    "cards"[
+    "cards": [
        {
           "offer":"50",
           "image":"",
