@@ -1,107 +1,108 @@
 {
-   "topPicks": [
+   "topPicks":[
       {
-         "id": "1",
-         "category": "veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"1",
+         "category":"veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       },
       {
-         "id": "2",
-         "category": "veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"2",
+         "category":"veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       },
       {
-         "id": "3",
-         "category": "non-veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"3",
+         "category":"non-veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       },
       {
-         "id": "4",
-         "category": "veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"4",
+         "category":"veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       },
       {
-         "id": "5",
-         "category": "non-veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"5",
+         "category":"non-veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       },
       {
-         "id": "6",
-         "category": "veg",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "item_name": "Biryani",
-         "rating": "4.2"
+         "id":"6",
+         "category":"veg",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "item_name":"Biryani",
+         "rating":"4.2"
       }
    ],
-      "cards": [{
-         "id": "1",
-         "offer": "50",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "category": "veg",
-         "itemName": "Mix Veg",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "rating": "4.5",
-         "views": "12.2",
-         "originalPrice ": "50",
-         "currentPrice": "47.99"
+   "cards":[
+      {
+         "id":"1",
+         "offer":"50",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "category":"veg",
+         "itemName":"Mix Veg",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "rating":"4.5",
+         "views":"12.2",
+         "originalPrice ":"50",
+         "currentPrice":"47.99"
       },
       {
-         "id": "2",
-         "offer": "50",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "category": "non-veg",
-         "itemName": "Mix Veg",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "rating": "4.5",
-         "views": "12.2",
-         "originalPrice ": "50",
-         "currentPrice": "47.99"
+         "id":"2",
+         "offer":"50",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "category":"non-veg",
+         "itemName":"Mix Veg",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "rating":"4.5",
+         "views":"12.2",
+         "originalPrice ":"50",
+         "currentPrice":"47.99"
       },
       {
-         "id": "3",
-         "offer": "50",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "category": "veg",
-         "itemName": "Mix Veg",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "rating": "4.5",
-         "views": "12.2",
-         "originalPrice ": "50",
-         "currentPrice": "47.99"
+         "id":"3",
+         "offer":"50",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "category":"veg",
+         "itemName":"Mix Veg",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "rating":"4.5",
+         "views":"12.2",
+         "originalPrice ":"50",
+         "currentPrice":"47.99"
       },
       {
-         "id": "4",
-         "offer": "50",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "category": "non-veg",
-         "itemName": "Mix Veg",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "rating": "4.5",
-         "views": "12.2",
-         "originalPrice ": "50",
-         "currentPrice": "47.99"
+         "id":"4",
+         "offer":"50",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "category":"non-veg",
+         "itemName":"Mix Veg",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "rating":"4.5",
+         "views":"12.2",
+         "originalPrice ":"50",
+         "currentPrice":"47.99"
       },
       {
-         "id": "5",
-         "offer": "50",
-         "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
-         "category": "veg",
-         "itemName": "Mix Veg",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "rating": "4.5",
-         "views": "12.2",
-         "originalPrice ": "50",
-         "currentPrice": "47.99"
+         "id":"5",
+         "offer":"50",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "category":"veg",
+         "itemName":"Mix Veg",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "rating":"4.5",
+         "views":"12.2",
+         "originalPrice ":"50",
+         "currentPrice":"47.99"
       }
-      ]
+   ]
 }
