@@ -3,21 +3,21 @@
       {
          "id":"1",
          "category":"veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
          "item_name":"Biryani",
          "rating":"4.2"
       },
       {
          "id":"2",
          "category":"veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
          "item_name":"Biryani",
          "rating":"4.2"
       },
       {
          "id":"3",
          "category":"non-veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE",
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
          "item_name":"Biryani",
          "rating":"4.2"
       }
@@ -34,7 +34,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"2",
@@ -43,11 +43,11 @@
          "rating":"4.5",
          "category":"Drinks",
          "foodType":"non-veg",
-         "itemName":"Mix Veg",
+         "itemName":"Biryani",
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"6",
@@ -60,7 +60,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"7",
@@ -69,11 +69,11 @@
          "rating":"4.5",
          "category":"Lunch",
          "foodType":"non-veg",
-         "itemName":"Mix Veg",
+         "itemName":"Biryani",
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"11",
@@ -86,7 +86,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"12",
@@ -95,11 +95,11 @@
          "rating":"4.5",
          "category":"Dinner",
          "foodType":"non-veg",
-         "itemName":"Mix Veg",
+         "itemName":"Biryani",
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"16",
@@ -112,7 +112,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"17",
@@ -121,11 +121,11 @@
          "rating":"4.5",
          "category":"Caffeine",
          "foodType":"non-veg",
-         "itemName":"Mix Veg",
+         "itemName":"Biryani",
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"21",
@@ -138,7 +138,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       },
       {
          "id":"22",
@@ -147,11 +147,11 @@
          "rating":"4.5",
          "category":"Brunch",
          "foodType":"non-veg",
-         "itemName":"Mix Veg",
+         "itemName":"Biryani",
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood&psig=AOvVaw0fyVvsdCAMoXHqttYbYAl_&ust=1685610923260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDBpZCcn_8CFQAAAAAdAAAAABAE"
+         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
       }
    ]
 }
