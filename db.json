@@ -4,7 +4,7 @@
          "id":"1",
          "foodType":"veg",
          "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg",
-         "item_name":"Biryani",
+         "item_name":"Paneer Tikka",
          "rating":"4.2"
       },
       {
@@ -18,7 +18,21 @@
          "id":"3",
          "foodType":"veg",
          "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg",
+         "item_name":"Paneer Tikka",
+         "rating":"4.2"
+      },
+       {
+         "id":"4",
+         "foodType":"non-veg",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg",
          "item_name":"Biryani",
+         "rating":"4.2"
+      },
+      {
+         "id":"5",
+         "foodType":"veg",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg",
+         "item_name":"Paneer Tikka",
          "rating":"4.2"
       }
    ],
