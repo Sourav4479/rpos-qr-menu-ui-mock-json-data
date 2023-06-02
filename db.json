@@ -2,22 +2,22 @@
    "topPicks":[
       {
          "id":"1",
-         "category":"veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
+         "foodType":"veg",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg",
          "item_name":"Biryani",
          "rating":"4.2"
       },
       {
          "id":"2",
-         "category":"veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
+         "foodType":"non-veg",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg",
          "item_name":"Biryani",
          "rating":"4.2"
       },
       {
          "id":"3",
-         "category":"non-veg",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com",
+         "foodType":"veg",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg",
          "item_name":"Biryani",
          "rating":"4.2"
       }
@@ -34,7 +34,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
          "id":"2",
@@ -47,7 +47,7 @@
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
          "id":"6",
@@ -60,7 +60,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
          "id":"7",
@@ -73,7 +73,7 @@
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
          "id":"11",
@@ -86,7 +86,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
          "id":"12",
@@ -99,7 +99,7 @@
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
          "id":"16",
@@ -112,7 +112,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
          "id":"17",
@@ -125,7 +125,7 @@
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
          "id":"21",
@@ -138,7 +138,7 @@
          "originalPrice":"50",
          "currentPrice":"27.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
          "id":"22",
@@ -151,7 +151,7 @@
          "originalPrice":"50",
          "currentPrice":"47.99",
          "description":"Served with 2 leg piece, gravy and 1 bowl",
-         "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com"
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       }
    ]
 }
