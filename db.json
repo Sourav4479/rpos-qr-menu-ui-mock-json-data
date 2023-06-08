@@ -91,7 +91,7 @@
             "itemName":"Dal Fry",
             "originalPrice":"50",
             "currentPrice":"87.99",
-            "description":"Served with 2 leg piece, gravy and 1 bowl",
+            "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
          },
          {
@@ -133,7 +133,7 @@
             "itemName":"Dal Fry",
             "originalPrice":"50",
             "currentPrice":"87.99",
-            "description":"Served with 2 leg piece, gravy and 1 bowl",
+            "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
          },
          {
@@ -175,7 +175,7 @@
             "itemName":"Dal Fry",
             "originalPrice":"50",
             "currentPrice":"87.99",
-            "description":"Served with 2 leg piece, gravy and 1 bowl",
+            "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
          },
          {
@@ -217,7 +217,7 @@
             "itemName":"Dal Fry",
             "originalPrice":"50",
             "currentPrice":"87.99",
-            "description":"Served with 2 leg piece, gravy and 1 bowl",
+            "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
          },
          {
@@ -259,9 +259,9 @@
             "itemName":"Dal Fry",
             "originalPrice":"50",
             "currentPrice":"87.99",
-            "description":"Served with 2 leg piece, gravy and 1 bowl",
+            "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
-         },
+         }
       ]
    }
 }
