@@ -1,191 +1,193 @@
 {
-   "info": {
-      "id": "111",
-         "logo": "",
-            "rating": "4.2",
-               "GST no": "129800000Ae",
-                  "restaurantName": "Vegan Restaurant"
+   "info":{
+      "id":"111",
+      "logo":"",
+      "rating":"4.2",
+      "GST no":"129800000Ae",
+      "restaurantName":"Vegan Restaurant"
    },
-   "offers": [
-      "daily": {
-         "cash": "20",
-         "percentage": "49%"
+   "offers":[
+      "daily":{
+         "cash":"20",
+         "percentage":"49%"
       },
-      "occasionally": {
-         "cash": "20",
-         "percentage": "49%"
-      },
-   ]"category": [
-      {
-         "id": "c1",
-         "logo": "",
-         "name": "Caffeine",
-         "loboColor": "red"
-      },
-      {
-         "id": "c2",
-         "logo": "",
-         "name": "Drinks",
-         "loboColor": "red"
-      },
-      {
-         "id": "c3",
-         "logo": "",
-         "name": "Lunch",
-         "loboColor": "red"
-      },
-      {
-         "id": "c4",
-         "logo": "",
-         "name": "Dinner",
-         "loboColor": "red"
-      },
-      {
-         "id": "c5",
-         "logo": "",
-         "name": "Brunch",
-         "loboColor": "red"
+      "occasionally":{
+         "cash":"20",
+         "percentage":"49%"
       }
-   ]"menuItems": [
+   ],
+   "category":[
       {
-         "id": "1",
-         "offer": "50",
-         "rating": "3.5",
-         "views": "12.2",
-         "topPicks": "true",
-         "category": "Drinks",
-         "foodType": "veg",
-         "itemName": "Mix Veg",
-         "originalPrice": "50",
-         "currentPrice": "27.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+         "id":"c1",
+         "logo":"",
+         "name":"Caffeine",
+         "loboColor":"red"
       },
       {
-         "id": "2",
-         "offer": "50",
-         "rating": "4.5",
-         "views": "12.2",
-         "topPicks": "false",
-         "category": "Drinks",
-         "foodType": "non-veg",
-         "itemName": "Biryani",
-         "originalPrice": "50",
-         "currentPrice": "47.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+         "id":"c2",
+         "logo":"",
+         "name":"Drinks",
+         "loboColor":"red"
       },
       {
-         "id": "6",
-         "offer": "50",
-         "rating": "3.5",
-         "views": "12.2",
-         "topPicks": "false",
-         "category": "Lunch",
-         "foodType": "veg",
-         "itemName": "Mix Veg",
-         "originalPrice": "50",
-         "currentPrice": "27.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+         "id":"c3",
+         "logo":"",
+         "name":"Lunch",
+         "loboColor":"red"
       },
       {
-         "id": "7",
-         "offer": "50",
-         "rating": "4.5",
-         "views": "12.2",
-         "topPicks": "true",
-         "category": "Lunch",
-         "foodType": "non-veg",
-         "itemName": "Biryani",
-         "originalPrice": "50",
-         "currentPrice": "47.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+         "id":"c4",
+         "logo":"",
+         "name":"Dinner",
+         "loboColor":"red"
       },
       {
-         "id": "11",
-         "offer": "50",
-         "rating": "3.5",
-         "views": "12.2",
-         "topPicks": "true",
-         "category": "Dinner",
-         "foodType": "veg",
-         "itemName": "Mix Veg",
-         "originalPrice": "50",
-         "currentPrice": "27.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+         "id":"c5",
+         "logo":"",
+         "name":"Brunch",
+         "loboColor":"red"
+      }
+   ],
+   "menuItems":[
+      {
+         "id":"1",
+         "offer":"50",
+         "rating":"3.5",
+         "views":"12.2",
+         "topPicks":"true",
+         "category":"Drinks",
+         "foodType":"veg",
+         "itemName":"Mix Veg",
+         "originalPrice":"50",
+         "currentPrice":"27.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
-         "id": "12",
-         "offer": "50",
-         "rating": "4.5",
-         "views": "12.2",
-         "topPicks": "false",
-         "category": "Dinner",
-         "foodType": "non-veg",
-         "itemName": "Biryani",
-         "originalPrice": "50",
-         "currentPrice": "47.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+         "id":"2",
+         "offer":"50",
+         "rating":"4.5",
+         "views":"12.2",
+         "topPicks":"false",
+         "category":"Drinks",
+         "foodType":"non-veg",
+         "itemName":"Biryani",
+         "originalPrice":"50",
+         "currentPrice":"47.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
-         "id": "16",
-         "offer": "50",
-         "rating": "3.5",
-         "views": "12.2",
-         "topPicks": "false",
-         "category": "Caffeine",
-         "foodType": "veg",
-         "itemName": "Mix Veg",
-         "originalPrice": "50",
-         "currentPrice": "27.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+         "id":"6",
+         "offer":"50",
+         "rating":"3.5",
+         "views":"12.2",
+         "topPicks":"false",
+         "category":"Lunch",
+         "foodType":"veg",
+         "itemName":"Mix Veg",
+         "originalPrice":"50",
+         "currentPrice":"27.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
-         "id": "17",
-         "offer": "50",
-         "rating": "4.5",
-         "views": "12.2",
-         "topPicks": "true",
-         "category": "Caffeine",
-         "foodType": "non-veg",
-         "itemName": "Biryani",
-         "originalPrice": "50",
-         "currentPrice": "47.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+         "id":"7",
+         "offer":"50",
+         "rating":"4.5",
+         "views":"12.2",
+         "topPicks":"true",
+         "category":"Lunch",
+         "foodType":"non-veg",
+         "itemName":"Biryani",
+         "originalPrice":"50",
+         "currentPrice":"47.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       },
       {
-         "id": "21",
-         "offer": "50",
-         "rating": "3.5",
-         "views": "12.2",
-         "topPicks": "true",
-         "category": "Brunch",
-         "foodType": "veg",
-         "itemName": "Mix Veg",
-         "originalPrice": "50",
-         "currentPrice": "27.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+         "id":"11",
+         "offer":"50",
+         "rating":"3.5",
+         "views":"12.2",
+         "topPicks":"true",
+         "category":"Dinner",
+         "foodType":"veg",
+         "itemName":"Mix Veg",
+         "originalPrice":"50",
+         "currentPrice":"27.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
       },
       {
-         "id": "22",
-         "offer": "50",
-         "rating": "4.5",
-         "views": "12.2",
-         "topPicks": "false",
-         "category": "Brunch",
-         "foodType": "non-veg",
-         "itemName": "Biryani",
-         "originalPrice": "50",
-         "currentPrice": "47.99",
-         "description": "Served with 2 leg piece, gravy and 1 bowl",
-         "image_url": "https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+         "id":"12",
+         "offer":"50",
+         "rating":"4.5",
+         "views":"12.2",
+         "topPicks":"false",
+         "category":"Dinner",
+         "foodType":"non-veg",
+         "itemName":"Biryani",
+         "originalPrice":"50",
+         "currentPrice":"47.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+      },
+      {
+         "id":"16",
+         "offer":"50",
+         "rating":"3.5",
+         "views":"12.2",
+         "topPicks":"false",
+         "category":"Caffeine",
+         "foodType":"veg",
+         "itemName":"Mix Veg",
+         "originalPrice":"50",
+         "currentPrice":"27.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+      },
+      {
+         "id":"17",
+         "offer":"50",
+         "rating":"4.5",
+         "views":"12.2",
+         "topPicks":"true",
+         "category":"Caffeine",
+         "foodType":"non-veg",
+         "itemName":"Biryani",
+         "originalPrice":"50",
+         "currentPrice":"47.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+      },
+      {
+         "id":"21",
+         "offer":"50",
+         "rating":"3.5",
+         "views":"12.2",
+         "topPicks":"true",
+         "category":"Brunch",
+         "foodType":"veg",
+         "itemName":"Mix Veg",
+         "originalPrice":"50",
+         "currentPrice":"27.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+      },
+      {
+         "id":"22",
+         "offer":"50",
+         "rating":"4.5",
+         "views":"12.2",
+         "topPicks":"false",
+         "category":"Brunch",
+         "foodType":"non-veg",
+         "itemName":"Biryani",
+         "originalPrice":"50",
+         "currentPrice":"47.99",
+         "description":"Served with 2 leg piece, gravy and 1 bowl",
+         "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
       }
    ]
 }
