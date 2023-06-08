@@ -24,31 +24,31 @@
             "id":"231",
             "logo":"",
             "name":"caffeine",
-            "loboColor":"text-purple-500"
+            "logoColor":"text-purple-500"
          },
          {
             "id":"232",
             "logo":"",
             "name":"drinks",
-            "loboColor":"text-orange-500"
+            "logoColor":"text-orange-500"
          },
          {
             "id":"233",
             "logo":"",
             "name":"lunch",
-            "loboColor":"text-teal-500"
+            "logoColor":"text-teal-500"
          },
          {
             "id":"234",
             "logo":"",
             "name":"dinner",
-            "loboColor":"text-rose-500"
+            "logoColor":"text-rose-500"
          },
          {
             "id":"235",
             "logo":"",
             "name":"brunch",
-            "loboColor":"text-gray-500"
+            "logoColor":"text-gray-500"
          }
       ],
       "menuItems":[
