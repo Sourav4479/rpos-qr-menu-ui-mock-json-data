@@ -7,11 +7,13 @@
       "restaurantName":"Vegan Restaurant"
    },
    "offers":[
-      "daily":{
+      {
+         "type":"daily",
          "cash":"20",
          "percentage":"49%"
       },
-      "occasionally":{
+      {
+         "type":"occasionally",
          "cash":"20",
          "percentage":"49%"
       }
