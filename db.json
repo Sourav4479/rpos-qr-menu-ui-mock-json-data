@@ -22,28 +22,33 @@
       "category":[
          {
             "id":"231",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"",
             "name":"caffeine",
+            "logoColor":"text-purple-500"
          },
          {
             "id":"232",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"",
             "name":"drinks",
+            "logoColor":"text-orange-500"
          },
          {
             "id":"233",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"",
             "name":"lunch",
+            "logoColor":"text-teal-500"
          },
          {
             "id":"234",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"",
             "name":"dinner",
+            "logoColor":"text-rose-500"
          },
          {
             "id":"235",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"",
             "name":"brunch",
+            "logoColor":"text-gray-500"
          }
       ],
       "menuItems":[
@@ -256,7 +261,7 @@
             "currentPrice":"87.99",
             "description":"Served in 1 Bowl",
             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
-         }
+         },
       ]
    }
 }
