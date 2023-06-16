@@ -22,27 +22,27 @@
       "category":[
          {
             "id":"231",
-            "logo":"MdOutlineFastfood",
+            "logo":"MdOutlineLunchDining",
             "name":"caffeine",
          },
          {
             "id":"232",
-            "logo":"MdOutlineFastfood",
+            "logo":"MdOutlineLunchDining",
             "name":"drinks",
          },
          {
             "id":"233",
-            "logo":"MdOutlineFastfood",
+            "logo":"MdOutlineLunchDining",
             "name":"lunch",
          },
          {
             "id":"234",
-            "logo":"MdOutlineFastfood",
+            "logo":"MdOutlineLunchDining",
             "name":"dinner",
          },
          {
             "id":"235",
-            "logo":"MdOutlineFastfood",
+            "logo":"MdOutlineLunchDining",
             "name":"brunch",
          }
       ],
