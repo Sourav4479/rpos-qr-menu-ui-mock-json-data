@@ -22,31 +22,31 @@
       "category":[
          {
             "id":"231",
-            "logo":"",
+            "logo":"MdOutlineFreeBreakfast",
             "name":"caffeine",
             "logoColor":"text-purple-500"
          },
          {
             "id":"232",
-            "logo":"",
+            "logo":"BiSolidDrink",
             "name":"drinks",
             "logoColor":"text-orange-500"
          },
          {
             "id":"233",
-            "logo":"",
+            "logo":"MdOutlineLunchDining",
             "name":"lunch",
             "logoColor":"text-teal-500"
          },
          {
             "id":"234",
-            "logo":"",
+            "logo":"MdOutlineDinnerDining",
             "name":"dinner",
             "logoColor":"text-rose-500"
          },
          {
             "id":"235",
-            "logo":"",
+            "logo":"MdOutlineDinnerDining",
             "name":"brunch",
             "logoColor":"text-gray-500"
          }
