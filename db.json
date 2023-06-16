@@ -22,22 +22,22 @@
       "category":[
          {
             "id":"231",
-            "logo":"MdOutlineEmojiFoodBeverage",
+            "logo":"MdOutlineFastfood",
             "name":"caffeine",
          },
          {
             "id":"232",
-            "logo":"MdOutlineFreeBreakfast",
+            "logo":"MdOutlineFastfood",
             "name":"drinks",
          },
          {
             "id":"233",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineFastfood",
             "name":"lunch",
          },
          {
             "id":"234",
-            "logo":"MdOutlineDinnerDining",
+            "logo":"MdOutlineFastfood",
             "name":"dinner",
          },
          {
