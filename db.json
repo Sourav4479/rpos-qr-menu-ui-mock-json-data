@@ -22,27 +22,27 @@
       "category":[
          {
             "id":"231",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineDinnerDining",
             "name":"caffeine",
          },
          {
             "id":"232",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineDinnerDining",
             "name":"drinks",
          },
          {
             "id":"233",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineDinnerDining",
             "name":"lunch",
          },
          {
             "id":"234",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineDinnerDining",
             "name":"dinner",
          },
          {
             "id":"235",
-            "logo":"MdOutlineLunchDining",
+            "logo":"MdOutlineDinnerDining",
             "name":"brunch",
          }
       ],
