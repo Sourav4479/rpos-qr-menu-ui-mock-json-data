@@ -23,12 +23,14 @@
             {
                 "id": "23",
                 "name": "Chicken biryani",
+                "foodType":"non-veg",
                 "price": 200,
                 "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
             },
             {
                 "id": "21",
                 "name": "Mutton biryani",
+                "foodType":"non-veg",
                 "price": 250,
                 "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
             }
