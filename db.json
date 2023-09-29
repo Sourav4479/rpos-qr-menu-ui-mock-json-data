@@ -21,25 +21,31 @@
        ],
        "top_picks": [
             {
-                "id": "23",
-                "name": "Chicken biryani",
-                "foodType":"non-veg",
-                "price": 200,
-                "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
+             "id":"1",
+             "category":["drinks","dinner", "breakfast"],
+             "foodType":"veg",
+             "itemName":"Mix Veg",
+             "originalPrice":"50",
+             "currentPrice":"27.99",
+             "description":"Served with 2 leg piece, gravy and 1 bowl",
+             "image_url":"https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
             },
-            {
-                "id": "21",
-                "name": "Mutton biryani",
-                "foodType":"non-veg",
-                "price": 250,
-                "image_url": "https://hips.hearstapps.com/hmg-prod/images/easy-vegetarian-recipes-sticky-tofu-bowl-1656601347.jpeg"
-            }
+           {
+             "id":"2",
+             "category": ["drinks","dinner"],
+             "foodType":"non-veg",
+             "itemName":"Biryani",
+             "originalPrice":"50",
+             "currentPrice":"47.99",
+             "description":"Served with 2 leg piece, gravy and 1 bowl",
+             "image_url":"https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg"
+          }
         ],
        "category":["lunch", "dinner", "breakfast", "drinks"],
        "menuItems":[
           {
              "id":"1",
-             "category":"drinks",
+             "category":["drinks","dinner", "breakfast"],
              "foodType":"veg",
              "itemName":"Mix Veg",
              "originalPrice":"50",
@@ -49,7 +55,7 @@
           },
           {
              "id":"2",
-             "category":"drinks",
+             "category": ["drinks","dinner"],
              "foodType":"non-veg",
              "itemName":"Biryani",
              "originalPrice":"50",
@@ -59,7 +65,7 @@
           },
           {
              "id":"3",
-             "category":"drinks",
+             "category":["drinks","dinner"],
              "foodType":"veg",
              "itemName":"Dal Fry",
              "originalPrice":"50",
@@ -69,7 +75,7 @@
           },
           {
              "id":"6",
-             "category":"lunch",
+             "category":["lunch"],
              "foodType":"veg",
              "itemName":"Mix Veg",
              "originalPrice":"50",
@@ -79,7 +85,7 @@
           },
           {
              "id":"7",
-             "category":"lunch",
+             "category":["lunch"],
              "foodType":"non-veg",
              "itemName":"Biryani",
              "originalPrice":"50",
@@ -89,7 +95,7 @@
           },
           {
              "id":"8",
-             "category":"lunch",
+             "category":["lunch"],
              "foodType":"veg",
              "itemName":"Dal Fry",
              "originalPrice":"50",
@@ -99,7 +105,7 @@
           },
           {
              "id":"11",
-             "category":"dinner",
+             "category":["dinner"],
              "foodType":"veg",
              "itemName":"Mix Veg",
              "originalPrice":"50",
@@ -109,7 +115,7 @@
           },
           {
              "id":"12",
-             "category":"dinner",
+             "category":["dinner"],
              "foodType":"non-veg",
              "itemName":"Biryani",
              "originalPrice":"50",
@@ -119,7 +125,7 @@
           },
           {
              "id":"13",
-             "category":"dinner",
+             "category":["dinner"],
              "foodType":"veg",
              "itemName":"Dal Fry",
              "originalPrice":"50",
@@ -129,7 +135,7 @@
           },
           {
              "id":"16",
-             "category":"caffeine",
+             "category":["caffeine"],
              "foodType":"veg",
              "itemName":"Mix Veg",
              "originalPrice":"50",
@@ -139,7 +145,7 @@
           },
           {
              "id":"17",
-             "category":"caffeine",
+             "category":["caffeine"],
              "foodType":"non-veg",
              "itemName":"Biryani",
              "originalPrice":"50",
@@ -149,7 +155,7 @@
           },
           {
              "id":"18",
-             "category":"caffeine",
+             "category":["caffeine"],
              "foodType":"veg",
              "itemName":"Dal Fry",
              "originalPrice":"50",
@@ -159,7 +165,7 @@
           },
           {
              "id":"21",
-             "category":"brunch",
+             "category":["brunch"],
              "foodType":"veg",
              "itemName":"Mix Veg",
              "originalPrice":"50",
@@ -169,7 +175,7 @@
           },
           {
              "id":"22",
-             "category":"brunch",
+             "category":["brunch"],
              "foodType":"non-veg",
              "itemName":"Biryani",
              "originalPrice":"50",
@@ -179,7 +185,7 @@
           },
           {
              "id":"23",
-             "category":"brunch",
+             "category":["brunch"],
              "foodType":"veg",
              "itemName":"Dal Fry",
              "originalPrice":"50",
